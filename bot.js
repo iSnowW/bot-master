@@ -32,7 +32,7 @@ client.on('message', message => {
  }
 });
 
-client.on("ready", () => {
+client.on("ready", () => 
   let activities = [
       `discord status of your bot (discord status do seu bot)`,
     ],
